@@ -1,0 +1,16 @@
+@import './variables.scss';
+
+.header {
+  width: 100%;
+  background: $primary-grey_light;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.infoItem {
+  margin: 0;
+  padding: 0.75rem 0;
+}
